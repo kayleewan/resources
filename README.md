@@ -14,16 +14,21 @@ i highly recommend applying for the [github student developer pack](https://educ
 - [javascript](#javascript)
 - [online-code-editors](#online-code-editors)
 - [php](#php)
+    - lacking material
 - [python](#python)
 - [react](#react)
+    - lacking material
 - [ruby](#ruby)
+- [swift](#swift)
+    - lacking material
 - [off-topic](#off-topic)
 - [others](#others)
 
 
 ### c++
-- [learncpp: c++ and object-oriented programming tutorials ](https://www.learncpp.com/)
+- [freecodecamp: c++ tutorial for beginners - full video course (4 hours)](https://youtu.be/vLnPwxZdW4Y)
 - [google: c++ style guide](https://google.github.io/styleguide/cppguide.html)
+- [learncpp: c++ and object-oriented programming tutorials ](https://www.learncpp.com/)
 
 ### css
 - [css box model](https://css-tricks.com/the-css-box-model/)
@@ -45,15 +50,18 @@ i highly recommend applying for the [github student developer pack](https://educ
 ### intro-to-programming
 - [code.org: introductory computer science course](https://studio.code.org/courses/csd-2020/)
     - i used this course in my AP computer science principles high school class
+- [freecodecamp: introduction to programming and computer science -  full video course (2 hours)](https://youtu.be/zOjov-2OZ0E)
 - [harvard: cs50 introduction to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 - [the odin project: foundations course](https://www.theodinproject.com/paths/foundations?)
     - co-owner holden has used the odin project when he first started to code
 
 ### java
 - [codingbat: java code practice](https://codingbat.com/java)
+- [freecodecamp: learn java 8 - full video tutorial for beginners (9 hours)](https://youtu.be/grEKMHGYyns)
 
 ### javascript
 - [edabit: javascript tutorial for beginners](https://edabit.com/tutorial/javascript)
+- [freecodecamp: learn javascript - full course for beginners (3 hours)](https://youtu.be/PkZNo7MFNFg)
 - [github: javascript comparison operators](https://github.com/kennyszhang/learn-HTML-CSS-Javascript#comparison-operators)
     - my personal chart
 - [github: javascript mathematical operators](https://github.com/kennyszhang/learn-HTML-CSS-Javascript#mathematical-operators)
@@ -76,6 +84,7 @@ i highly recommend applying for the [github student developer pack](https://educ
 
 ### python 
 - [codingbat: free python code practice ](https://codingbat.com/python)
+- [freecodecamp: full course for beginners (4 hours)](https://youtu.be/rfscVS0vtbw)
 - [learnpython: free python tutorials](https://www.learnpython.org/)
 - [python.org: style guide for python](https://www.python.org/dev/peps/pep-0008/)
 - [pythoncheatsheet: free python cheatsheet](https://www.pythoncheatsheet.org/)
