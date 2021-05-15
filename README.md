@@ -122,6 +122,8 @@ other resources that are not computer science related
     - i put the passwords on websites i rarely visit or sites that looks vulnerable
     - you can also generate passwords; i suggest 16 characters, upper and lower case letters with numbers and symbols, with a minimum of 5 numbers and 5 special symbols
     - if you would like alternatives, [here](https://www.theverge.com/22285499/password-manager-lastpass-free-bitwarden-zoho) is a link for more options
+- [watchyourhack: a manual to protect you against hackers](https://watchyourhack.com/)
+    - a manual for people new on the internet
 
 ### others
 - [brew.sh: package manager for macOS or linux](https://brew.sh/)
