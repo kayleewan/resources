@@ -6,6 +6,8 @@ a sorted list of computer science resources
 i highly recommend applying for the [github student developer pack](https://education.github.com/pack/offers), offering free access to developer tools as long as you are a student
 
 ## table of contents
+- [algorithms](#algorithms)
+- [c](#c)
 - [c++](#c++)
 - [css](#css)
 - [html](#html)
@@ -24,9 +26,15 @@ i highly recommend applying for the [github student developer pack](https://educ
 - [off-topic](#off-topic)
 - [others](#others)
 
+### algorithms
+- [hackerrank: algorithms challenges](https://www.hackerrank.com/domains/algorithms)
+
+### c
+- [hackerrank: c challenges](https://www.hackerrank.com/domains/c)
 
 ### c++
 - [freecodecamp: c++ tutorial for beginners - full video course (4 hours)](https://youtu.be/vLnPwxZdW4Y)
+- [hackerrank: c++ challenges](https://www.hackerrank.com/domains/cpp)
 - [google: c++ style guide](https://google.github.io/styleguide/cppguide.html)
 - [learncpp: c++ and object-oriented programming tutorials ](https://www.learncpp.com/)
 
@@ -40,6 +48,9 @@ i highly recommend applying for the [github student developer pack](https://educ
     - co-owner holden has used the odin project when he first started to code
 - [w3schools: css tutorial](https://www.w3schools.com/css/default.asp)
 
+### data structures
+- [hackerrank: data structures challenges](https://www.hackerrank.com/domains/data-structures)
+
 ### html
 - [htmldog: html beginner tutorial](https://htmldog.com/guides/html/beginner/)
 - [mozilla: getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
@@ -51,6 +62,7 @@ i highly recommend applying for the [github student developer pack](https://educ
 - [code.org: introductory computer science course](https://studio.code.org/courses/csd-2020/)
     - i used this course in my AP computer science principles high school class
 - [freecodecamp: introduction to programming and computer science -  full video course (2 hours)](https://youtu.be/zOjov-2OZ0E)
+- [hackerrank: learn to code in 30 days](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - [harvard: cs50 introduction to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 - [the odin project: foundations course](https://www.theodinproject.com/paths/foundations?)
     - co-owner holden has used the odin project when he first started to code
@@ -58,6 +70,7 @@ i highly recommend applying for the [github student developer pack](https://educ
 ### java
 - [codingbat: java code practice](https://codingbat.com/java)
 - [freecodecamp: learn java 8 - full video tutorial for beginners (9 hours)](https://youtu.be/grEKMHGYyns)
+- [hackerrank: java challenges](https://www.hackerrank.com/domains/java)
 
 ### javascript
 - [edabit: javascript tutorial for beginners](https://edabit.com/tutorial/javascript)
@@ -85,6 +98,7 @@ i highly recommend applying for the [github student developer pack](https://educ
 ### python 
 - [codingbat: free python code practice ](https://codingbat.com/python)
 - [freecodecamp: full course for beginners (4 hours)](https://youtu.be/rfscVS0vtbw)
+- [hackerrank: python challenges](https://www.hackerrank.com/domains/python)
 - [learnpython: free python tutorials](https://www.learnpython.org/)
 - [python.org: style guide for python](https://www.python.org/dev/peps/pep-0008/)
 - [pythoncheatsheet: free python cheatsheet](https://www.pythoncheatsheet.org/)
@@ -95,6 +109,7 @@ i highly recommend applying for the [github student developer pack](https://educ
 - [github: repo with react tips and tricks](https://github.com/vasanthk/react-bits)
 
 ### ruby
+- [hackerrank: ruby challenges](https://www.hackerrank.com/domains/ruby)
 - [ruby coding guidelines](https://clearwater.readthedocs.io/en/stable/Clearwater_Ruby_Coding_Guidelines.html)
 - [the odin project: free ruby on rails course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming)
     - co-owner holden has used the odin project when he first started to code
@@ -118,12 +133,13 @@ other resources that are not computer science related
     - check if your email or phone has been compromised [here](https://haveibeenpwned.com/)
 - [bitwarden](https://bitwarden.com/)
     - free password manager used by me
-    - i would suggest only putting your passwords only; do not put personal information or your master password
-    - i put the passwords on websites i rarely visit or sites that looks vulnerable
+    - i would suggest only putting your passwords only; do not put personal information or your master password inside
+    - i put passwords on websites i rarely visit or sites that looks vulnerable
     - you can also generate passwords; i suggest 16 characters, upper and lower case letters with numbers and symbols, with a minimum of 5 numbers and 5 special symbols
     - if you would like alternatives, [here](https://www.theverge.com/22285499/password-manager-lastpass-free-bitwarden-zoho) is a link for more options
 - [watchyourhack: a manual to protect you against hackers](https://watchyourhack.com/)
-    - a manual for people new on the internet
+    - a manual on how to protect yourself online
+    - very long manual
 
 ### others
 - [brew.sh: package manager for macOS or linux](https://brew.sh/)
@@ -149,6 +165,9 @@ other resources that are not computer science related
 - [github: list of compsci books for free](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books)
 - [google: free collection of material to grow your technical skills](https://techdevguide.withgoogle.com/)
 - [google fonts](https://fonts.google.com/)
+- [hackerrank: free collection of computer science challenges](https://www.hackerrank.com/)
+    - highly recommend
+    - skills they offer: algorithms, c, python, functional programming, databases, data structures, c++, ruby, artificial intelligence, regex, mathematics, java, linux shell, sql, and more
 - [leetcode: preparation for technical interviews](https://leetcode.com/)
     - most questions are locked behind a paywall, otherwise a small majority of questions are free
     - here is a [github repo](https://github.com/haoel/leetcode) with solutions
@@ -164,6 +183,9 @@ other resources that are not computer science related
     - a roadmap to becoming a front-end or back-end developer
 - [skillshare: free web development courses](https://www.skillshare.com/browse/web-development?time=all&enrollmentType=free&seeAll=1)
     - contains lots of free content not just for web development, but for things like animation, creative writing, music, etc.
+- [stackoverflow: a collection of coding questions and answers](https://stackoverflow.com/)
+    - if you have a coding question, chances are someone else has your exact problem and made a post on stackoverflow for everyone to see
+    - usually the first link when you search on google a coding question or error
 - [the noun project: free icons and stock photos](https://thenounproject.com/)
     - i am sure that this is only free for non-commercial products (basically, you are not making any money off your website)
 - [the odin project: free databases course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases)
