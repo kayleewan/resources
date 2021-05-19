@@ -137,6 +137,10 @@ other resources that are not computer science related
     - i put passwords on websites i rarely visit or sites that looks vulnerable
     - you can also generate passwords; i suggest 16 characters, upper and lower case letters with numbers and symbols, with a minimum of 5 numbers and 5 special symbols
     - if you would like alternatives, [here](https://www.theverge.com/22285499/password-manager-lastpass-free-bitwarden-zoho) is a link for more options
+- [protonvpn](https://protonvpn.com/)
+    - good for protecting your data in public wifi spaces
+    - has free servers in the united states
+    - i would suggest reading [this](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html) to really understand what a vpn truly is for
 - [watchyourhack: a manual to protect you against hackers](https://watchyourhack.com/)
     - a manual on how to protect yourself online
     - very long manual
