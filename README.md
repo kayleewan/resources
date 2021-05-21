@@ -1,34 +1,30 @@
 # resources
-a guide by Kenny Zhang
+a sorted list of computer science resources by Kenny Zhang
 
-a sorted list of computer science resources
+if you have a resource, feel free to fork this repo and add to this list
 
-i highly recommend applying for the [github student developer pack](https://education.github.com/pack/offers), offering free access to developer tools as long as you are a student
+i highly recommend applying for the [github student developer pack](https://education.github.com/pack/offers), offering free access to many developer tools as long as you are a student
 
 ## table of contents
-- [algorithms](#algorithms)
-- [c](#c)
-- [c++](#c++)
-- [css](#css)
-- [html](#html)
-- [intro-to-programming](#intro-to-programming)
-- [java](#java)
-- [javascript](#javascript)
-- [online-code-editors](#online-code-editors)
-- [php](#php)
-    - lacking material
-- [python](#python)
-- [react](#react)
-    - lacking material
-- [ruby](#ruby)
-- [swift](#swift)
-    - lacking material
-- [off-topic](#off-topic)
-- [others](#others)
+- [languages](#languages)
+    - [c](#c)
+    - [c++](#c++)
+    - [css](#css)
+    - [html](#html)
+    - [java](#java)
+    - [javascript](#javascript)
+    - [php](#php)
+    - [python](#python)
+    - [react](#react)
+    - [ruby](#ruby)
+    - [swift](#swift)
+- [other](#other)
+    - [data-structures-and-algorithms](#data-structures-and-algorithms)
+    - [intro-to-programming](#intro-to-programming)
+    - [online-code-editors](#online-code-editors)
+    - [off-topic](#off-topic)
 
-### algorithms
-- [hackerrank: algorithms challenges](https://www.hackerrank.com/domains/algorithms)
-
+## languages
 ### c
 - [hackerrank: c challenges](https://www.hackerrank.com/domains/c)
 
@@ -36,6 +32,7 @@ i highly recommend applying for the [github student developer pack](https://educ
 - [freecodecamp: c++ tutorial for beginners - full video course (4 hours)](https://youtu.be/vLnPwxZdW4Y)
 - [hackerrank: c++ challenges](https://www.hackerrank.com/domains/cpp)
 - [google: c++ style guide](https://google.github.io/styleguide/cppguide.html)
+    - remember, this is "an opinionated guide of programming conventions, style, and best practices for a team or project"
 - [learncpp: c++ and object-oriented programming tutorials ](https://www.learncpp.com/)
 
 ### css
@@ -48,24 +45,12 @@ i highly recommend applying for the [github student developer pack](https://educ
     - co-owner holden has used the odin project when he first started to code
 - [w3schools: css tutorial](https://www.w3schools.com/css/default.asp)
 
-### data structures
-- [hackerrank: data structures challenges](https://www.hackerrank.com/domains/data-structures)
-
 ### html
 - [htmldog: html beginner tutorial](https://htmldog.com/guides/html/beginner/)
 - [mozilla: getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [the odin project: html course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/html-and-css)
     - co-owner holden has used the odin project when he first started to code
 - [w3schools: html tutorial](https://www.w3schools.com/html/default.asp)
-
-### intro-to-programming
-- [code.org: introductory computer science course](https://studio.code.org/courses/csd-2020/)
-    - i used this course in my AP computer science principles high school class
-- [freecodecamp: introduction to programming and computer science -  full video course (2 hours)](https://youtu.be/zOjov-2OZ0E)
-- [hackerrank: learn to code in 30 days](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-- [harvard: cs50 introduction to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-- [the odin project: foundations course](https://www.theodinproject.com/paths/foundations?)
-    - co-owner holden has used the odin project when he first started to code
 
 ### java
 - [codingbat: java code practice](https://codingbat.com/java)
@@ -82,18 +67,16 @@ i highly recommend applying for the [github student developer pack](https://educ
 - [github: javascript syntax references](https://github.com/kennyszhang/learn-HTML-CSS-Javascript#syntax-references)
     - my personal chart
 - [google: javascript style guide](https://google.github.io/styleguide/jsguide.html)
+    - remember, this is "an opinionated guide of programming conventions, style, and best practices for a team or project"
 - [htmldog: javascript tutorial](https://htmldog.com/guides/javascript/)
 - [mozilla: getting started with javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [the odin project: javascript course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
     - co-owner holden has used the odin project when he first started to code
 - [w3schools: javascript tutorial](https://www.w3schools.com/js/default.asp)
 
-### online-code-editors
-- [replit](https://repl.it/)
-- [codepen](https://codepen.io/)
-
 ### php 
 - [php-fig: php style guide](https://www.php-fig.org/psr/psr-2/)
+    - remember, this is "an opinionated guide of programming conventions, style, and best practices for a team or project"
 
 ### python 
 - [codingbat: free python code practice ](https://codingbat.com/python)
@@ -101,6 +84,7 @@ i highly recommend applying for the [github student developer pack](https://educ
 - [hackerrank: python challenges](https://www.hackerrank.com/domains/python)
 - [learnpython: free python tutorials](https://www.learnpython.org/)
 - [python.org: style guide for python](https://www.python.org/dev/peps/pep-0008/)
+    - remember, this is "an opinionated guide of programming conventions, style, and best practices for a team or project"
 - [pythoncheatsheet: free python cheatsheet](https://www.pythoncheatsheet.org/)
 - [trinket: free python course](https://books.trinket.io/pfe/index.html)
 - [university of waterloo's free python course](https://cscircles.cemc.uwaterloo.ca/)
@@ -116,38 +100,11 @@ i highly recommend applying for the [github student developer pack](https://educ
 
 ### swift
 - [google: swift style guide](https://google.github.io/swift/)
+    - remember, this is "an opinionated guide of programming conventions, style, and best practices for a team or project"
 
-### off-topic
-other resources that are not computer science related
-- [emergency broadband benefits](https://getemergencybroadband.org/)
-    - basically if you qualify, the government can pay your internet bill up to $50 every month, along with a onetime $100 discount to purchase a computer or tablet
-    - application opens april 12th
-    - here is an [article](https://9to5mac.com/2021/05/04/broadband-subsidy/) to help explain this program
-- new york times: free subscription
-    - offer available if you are a berkeley city college student, i don't know if this offer works elsewhere
-    - follow these [steps](https://www.instagram.com/p/COIoHm9B4a2/?utm_source=ig_web_copy_link)
-    - then redeem [here](https://myaccount.nytimes.com/verification/edupass/check)
-- haveibeenpwned
-    - data breaches are very common in this day of age
-    - check if your password has been compromised [here](https://haveibeenpwned.com/Passwords)
-    - check if your email or phone has been compromised [here](https://haveibeenpwned.com/)
-- [bitwarden](https://bitwarden.com/)
-    - free password manager used by me
-    - i would suggest only putting your passwords only; do not put personal information or your master password inside
-    - i put passwords on websites i rarely visit or sites that looks vulnerable
-    - you can also generate passwords; i suggest 16 characters, upper and lower case letters with numbers and symbols, with a minimum of 5 numbers and 5 special symbols
-    - if you would like alternatives, [here](https://www.theverge.com/22285499/password-manager-lastpass-free-bitwarden-zoho) is a link for more options
-- [protonvpn](https://protonvpn.com/)
-    - good for protecting your data in public wifi spaces
-    - has free servers in the united states
-    - i would suggest reading [this](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html) to really understand what a vpn truly is for
-- [watchyourhack: a manual to protect you against hackers](https://watchyourhack.com/)
-    - a manual on how to protect yourself online
-    - very long manual
-
-### others
+## other
 - [brew.sh: package manager for macOS or linux](https://brew.sh/)
-    - installs packages you need
+    - installs packages for macOS
 - [codeacademy: multiple computer science language courses](https://www.codecademy.com/catalog)
     - avoid the courses with the "PRO" tag, they are behind a paywall; otherwise a small majority of courses are free
 - [codeacademy: free cheatsheets](https://www.codecademy.com/resources/cheatsheets/all)
@@ -198,3 +155,48 @@ other resources that are not computer science related
     - co-owner holden has used the odin project when he first started to code
 - [twillioquest: a game that teaches javascript, python, php, and open source](https://www.twilio.com/quest)
 - [udemy: free IT and software courses](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)
+
+### data-structures-and-algorithms
+in other schools, data structures and algorithms are two seperate classes
+- [hackerrank: algorithms challenges](https://www.hackerrank.com/domains/algorithms)
+- [hackerrank: data structures challenges](https://www.hackerrank.com/domains/data-structures)
+
+### intro-to-programming
+- [code.org: introductory computer science course](https://studio.code.org/courses/csd-2020/)
+    - i used this course in my AP computer science principles high school class
+- [freecodecamp: introduction to programming and computer science -  full video course (2 hours)](https://youtu.be/zOjov-2OZ0E)
+- [hackerrank: learn to code in 30 days](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [harvard: cs50 introduction to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [the odin project: foundations course](https://www.theodinproject.com/paths/foundations?)
+    - co-owner holden has used the odin project when he first started to code
+
+### online-code-editors
+- [replit](https://repl.it/)
+- [codepen](https://codepen.io/)
+
+### off-topic
+other resources that are not computer science related
+- [emergency broadband benefits](https://getemergencybroadband.org/)
+    - basically if you qualify, the government can pay your internet bill up to $50 every month, along with a onetime $100 discount to purchase a computer or tablet
+    - application opens april 12th
+    - here is an [article](https://9to5mac.com/2021/05/04/broadband-subsidy/) to help explain this program
+- new york times: free subscription
+    - offer available if you are a berkeley city college student, i don't know if this offer works elsewhere
+    - follow these [steps](https://www.instagram.com/p/COIoHm9B4a2/?utm_source=ig_web_copy_link)
+    - then redeem [here](https://myaccount.nytimes.com/verification/edupass/check)
+- haveibeenpwned
+    - data breaches are very common in this day of age
+    - check if your password has been compromised [here](https://haveibeenpwned.com/Passwords)
+    - check if your email or phone has been compromised [here](https://haveibeenpwned.com/)
+- [bitwarden](https://bitwarden.com/)
+    - free password manager used by me
+    - i would suggest only putting your passwords only; do not put personal information or your master password inside
+    - i put passwords on websites i rarely visit or sites that looks vulnerable
+    - you can also generate passwords; i suggest 16 characters, upper and lower case letters with numbers and symbols, with a minimum of 5 numbers and 5 special symbols
+    - if you would like alternatives, [here](https://www.theverge.com/22285499/password-manager-lastpass-free-bitwarden-zoho) is a link for more options
+- [protonvpn](https://protonvpn.com/)
+    - good for protecting your data in public wifi spaces
+    - has free servers in the united states
+    - i would suggest reading [this](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html) to really understand what a vpn truly is for
+- [watchyourhack: a manual to protect you against hackers](https://watchyourhack.com/)
+    - a long manual on how to protect yourself online
