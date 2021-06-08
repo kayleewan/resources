@@ -19,6 +19,7 @@ i highly recommend applying for the [github student developer pack](https://educ
     - [ruby](#ruby)
     - [swift](#swift)
 - [other](#other)
+    - [cybersecurity-and-penetration-testing](#cybersecurity-and-penetration-testing)
     - [data-structures-and-algorithms](#data-structures-and-algorithms)
     - [intro-to-programming](#intro-to-programming)
     - [online-code-editors](#online-code-editors)
@@ -112,7 +113,8 @@ i highly recommend applying for the [github student developer pack](https://educ
     - more choice to pick whatever color you want
 - [color picker from w3schools](https://www.w3schools.com/colors/colors_picker.asp)
     - limited choice to pick whatever color you want, but you can pick different shades of said color
-- [coursera: free computer science courses](https://www.coursera.org/courses?query=free)
+- [coursera: "free" computer science courses](https://www.coursera.org/courses?query=free)
+    - i put free in quotations because financial aid is available for many of the courses
     - co-owner holden has taken the [machine learning course by andrew ng](https://www.coursera.org/learn/machine-learning) and thought it was well done
     - [coursera: free google courses](https://grow.google/certificates/#?modal_active=none)
 - [edx: free computer science courses](https://www.edx.org/course/subject/computer-science)
@@ -155,6 +157,21 @@ i highly recommend applying for the [github student developer pack](https://educ
     - co-owner holden has used the odin project when he first started to code
 - [twillioquest: a game that teaches javascript, python, php, and open source](https://www.twilio.com/quest)
 - [udemy: free IT and software courses](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)
+
+### cybersecurity-and-penetration-testing
+i adivse you to be careful and everything you do must be ethical
+- [cybrary: free cybersecurity training and career development](https://www.cybrary.it/)
+- [github: collection of resources for hackers, pentesters, and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
+- [hacker101: free web security class](https://www.hacker101.com/)
+    - has capture the flag challenges
+    - has video lessons, guides, and resources
+- [github: another collection of cybersecurity resources](https://github.com/The-Art-of-Hacking/h4cker)
+- [kali training: free penetration testing book and course](https://kali.training/)
+- [malawareunicorn: free reverse enigneering workshops](https://malwareunicorn.org/#/workshops)
+- [reddit: how to start ethical hacking](https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/)
+- [reddit: start learning operations security](https://www.reddit.com/r/opsec/comments/eh6uvc/want_to_learn_opsec_as_a_total_beginner_start_here/)
+- [roppers academy: capture the flag course](https://www.hoppersroppers.org/courseCTF.html)
+- [xeushack: hacking tutorials by xeus](http://xeushack.com/)
 
 ### data-structures-and-algorithms
 in other schools, data structures and algorithms are two seperate classes
